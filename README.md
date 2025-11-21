@@ -18,7 +18,7 @@
 <h3>
 
 ### How to reach me:  
-  
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.sai.sannidh@gmail.com)](mailto:b.sai.sannidh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/b-sai-sannidh/)](https://www.linkedin.com/in/b-sai-sannidh/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KraVLonE)
@@ -53,6 +53,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
+![](https://komarev.com/ghpvc/?username=KraVLonE)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=KraVLonE&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KraVLonE&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KraVLonE&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
