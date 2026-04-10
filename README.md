@@ -1,62 +1,141 @@
-<h1 align="center">
-     Welcome To B SAI's Profile!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+Welcome+to+my+Github+page.;I+am+B+Sai+Sannidh;An+Enthusiast+in++Web+Dev+%7C+ML%2FDL" alt="Typing SVG" /></a>
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<div align="center">
 
-### About Me :
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    e^(iπ) + 1 = 0   ←   the most beautiful equation     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
- - I’m Currently Pursuing My BTech degree in Shri Shankaracharya Technical Campus.
- - I’m currently learning : ML/DL.
- - I’m open to any project collaborations.
- - Ask me about anything, I'm happy to help.
- 
-<h3>
+# B SAI SANNIDH
 
-### How to reach me:  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=F63049&center=true&width=650&lines=Junior+SWE+%40+Arpa+Global+Infotech;AI+%2F+ML+%7C+Deep+Tech+%7C+Chess+%7C+Problem+Solver;P+%3D%3D+NP+%3F+...+probably+not+but+let%27s+find+out;INFP+4w5+%7C+El+Psy+Kongroo)](https://git.io/typing-svg)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.sai.sannidh@gmail.com)](mailto:b.sai.sannidh@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/b-sai-sannidh/)](https://www.linkedin.com/in/b-sai-sannidh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KraVLonE)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kravlone/)](https://instagram.com/kravlone)
- 
-    
-# Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-    
-### Language
+</div>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### Libraries & Framework
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
-[![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)](https://expressjs.com/)
-![OpenCV](https://img.shields.io/badge/opencv-%100white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Tools:
+## ◈ `$ whoami`
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
-![](https://komarev.com/ghpvc/?username=KraVLonE)<br/>
-![](https://github-readme-stats.vercel.app/api?username=KraVLonE&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KraVLonE&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KraVLonE&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```
+  Junior SWE @ Arpa Global Infotech Pvt. Ltd.
+  AI / ML · Deep Tech · Problem Solving
+  Open to collabs — yes, even your half-baked idea
+```
 
-## GitHub Trophies <img src = "https://media4.giphy.com/media/3oEhn80aXdOBpa4FMs/giphy.gif?cid=ecf05e47djn0w77suwrm60dqox207ecpxqp9dklmfrzd14de&rid=giphy.gif&ct=s" width = 40px>
-![](https://github-profile-trophy.vercel.app/?username=KraVLonE&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+
+## ◈ `~/stack`
+
+
+
+<br>
+
+<!-- LANGUAGES -->
+<details open>
+<summary><b>◦ Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-111F35?style=for-the-badge&logo=python&logoColor=F63049)
+![C](https://img.shields.io/badge/C-111F35?style=for-the-badge&logo=c&logoColor=F63049)
+![C++](https://img.shields.io/badge/C++-111F35?style=for-the-badge&logo=cplusplus&logoColor=F63049)
+![JavaScript](https://img.shields.io/badge/JavaScript-111F35?style=for-the-badge&logo=javascript&logoColor=F63049)
+![TypeScript](https://img.shields.io/badge/TypeScript-111F35?style=for-the-badge&logo=typescript&logoColor=F63049)
+![Bash](https://img.shields.io/badge/Bash-111F35?style=for-the-badge&logo=gnubash&logoColor=F63049)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-111F35?style=for-the-badge&logo=html5&logoColor=F63049)
+![SQL](https://img.shields.io/badge/SQL-111F35?style=for-the-badge&logo=postgresql&logoColor=F63049)
+
+</details>
+
+<!-- FRAMEWORKS -->
+<details open>
+<summary><b>◦ Frameworks</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React.js-111F35?style=for-the-badge&logo=react&logoColor=D02752)
+![Node.js](https://img.shields.io/badge/Node.js-111F35?style=for-the-badge&logo=node.js&logoColor=D02752)
+![Express](https://img.shields.io/badge/Express.js-111F35?style=for-the-badge&logo=express&logoColor=D02752)
+![PyTorch](https://img.shields.io/badge/PyTorch-111F35?style=for-the-badge&logo=pytorch&logoColor=D02752)
+
+</details>
+
+<!-- LIBRARIES -->
+<details open>
+<summary><b>◦ Libraries</b></summary>
+<br>
+
+![Pandas](https://img.shields.io/badge/pandas-111F35?style=for-the-badge&logo=pandas&logoColor=8A244B)
+![NumPy](https://img.shields.io/badge/NumPy-111F35?style=for-the-badge&logo=numpy&logoColor=8A244B)
+![OpenCV](https://img.shields.io/badge/OpenCV-111F35?style=for-the-badge&logo=opencv&logoColor=8A244B)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-111F35?style=for-the-badge&logo=reactquery&logoColor=8A244B)
+
+</details>
+
+<!-- TOOLS -->
+<details open>
+<summary><b>◦ Tools & Infrastructure</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux%2FUnix-111F35?style=for-the-badge&logo=linux&logoColor=F63049)
+![Git](https://img.shields.io/badge/Git-111F35?style=for-the-badge&logo=git&logoColor=F63049)
+![Docker](https://img.shields.io/badge/Docker-111F35?style=for-the-badge&logo=docker&logoColor=F63049)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111F35?style=for-the-badge&logo=githubactions&logoColor=F63049)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-111F35?style=for-the-badge&logo=amazonec2&logoColor=F63049)
+![QGIS](https://img.shields.io/badge/QGIS-111F35?style=for-the-badge&logo=qgis&logoColor=F63049)
+![Jupyter](https://img.shields.io/badge/Jupyter-111F35?style=for-the-badge&logo=jupyter&logoColor=F63049)
+
+</details>
+
+
+
+
+
+## ◈ `~/github`
+
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KraVLonE&theme=dark&hide_border=true&bg_color=111F35&title_color=F63049&text_color=ffffff&icon_color=D02752&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KraVLonE&theme=dark&hide_border=true&background=111F35&ring=F63049&fire=D02752&currStreakLabel=F63049&sideLabels=ffffff&dates=8A244B)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KraVLonE&theme=dark&hide_border=true&bg_color=111F35&title_color=F63049&text_color=ffffff&layout=compact)
+
+</div>
+
+
+
+
+## ◈ `~/find_me`
+
+
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-111F35?style=for-the-badge&logo=gmail&logoColor=F63049)](mailto:b.sai.sannidh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111F35?style=for-the-badge&logo=linkedin&logoColor=F63049)](https://www.linkedin.com/in/b-sai-sannidh/)
+[![Twitter](https://img.shields.io/badge/Twitter-111F35?style=for-the-badge&logo=twitter&logoColor=F63049)](https://twitter.com/KraVLonE)
+[![Instagram](https://img.shields.io/badge/Instagram-111F35?style=for-the-badge&logo=instagram&logoColor=F63049)](https://instagram.com/kravlone)
+
+
+
+<div align="center">
+
+![views](https://komarev.com/ghpvc/?username=KraVLonE&color=F63049&style=flat-square&label=humans+%28and+bots%29+who+visited)
+
+<br>
+
+```
+"Not all those who wander are lost.
+ But most of them forgot to commit their changes."
+```
+
+*move fast · think deep · play chess*
+
+</div>
