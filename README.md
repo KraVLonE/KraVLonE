@@ -17,19 +17,17 @@ Software Engineer at **Arpa Global Infotech** (promoted Aug 2026). The code is p
 - **ERP Copilot:** managers and purchasing teams ask questions about their ERP data in plain English and get answers from SQL that the copilot writes for them. I designed, built and shipped it; **60+ users at 2 enterprise clients** use it.
 - **Schema retrieval:** the ERP has 1,000+ tables and 30K+ columns, about 150K tokens. Hybrid retrieval (embeddings + BM25 over per-table chunks with foreign-key links) picks only the tables a question needs, so prompts are **~2K tokens**.
 - **Tests and guardrails:** before every release I run a test set of **100+ real questions with known-correct SQL**. Guardrails stop destructive SQL and block reads of tables a user isn't allowed to see.
-- **Code knowledge base for a legacy ERP:** modeled the .NET / VB.NET code, SQL Server stored procedures and DB schema as a **Neo4j knowledge graph (1M+ nodes/edges, 10K+ procedures, screens and functions indexed)**. An MCP server gives a Claude Agent SDK agent tools to search that graph. **15 people** use it, and it has cut support-ticket resolution from days to hours and onboarding from weeks to days.
+- **Code knowledge base for a legacy ERP:** modeled the .NET / VB.NET code, SQL Server stored procedures and DB schema as a **Neo4j graph of 220K nodes and 593K edges** (75K methods, 9.8K stored procedures, 3.2K tables, 1.1K forms, 44 relationship types), with generated docs for 5,872 nodes. An MCP server gives a Claude Agent SDK agent tools to search that graph. **15 people** across development, support, functional and product teams use it, and it has cut support-ticket resolution from days to hours and onboarding from weeks to days.
 - **Deployments:** CI/CD with Jenkins, GitHub Actions, Docker and Nginx on AWS EC2 for 3 clients, so a deploy is one click.
 
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**portfolio**](https://github.com/KraVLonE/portfolio) · [live](https://kravlone.xyz) | Portfolio with an AI assistant that answers questions about my work, plus an admin panel to manage the content | React, TypeScript, FastAPI, PostgreSQL, Docker |
 | [**SIH_Ganga**](https://github.com/KraVLonE/SIH_Ganga) · [live](https://ganga.kravlone.xyz) | Daily estimates and 5-day forecasts of Ganga water quality over 1,369 km, with uncertainty ranges. Smart India Hackathon 2024 finalist | Python, PostgreSQL, TimescaleDB, PostGIS |
-| [**Traffic-Control-Optimization**](https://github.com/KraVLonE/Traffic-Control-Optimization) · [live](https://traffic-ai.kravlone.xyz) | Q-learning agent that controls traffic lights at a 4-way junction, compared against fixed-cycle and actuated controllers on the same traffic | Python, React, Recharts |
+| [**Traffic-Control-Optimization**](https://github.com/KraVLonE/Traffic-Control-Optimization) · [live](https://traffic-ai.kravlone.xyz) | Q-learning agent that controls traffic lights at a 4-way junction, cut average wait to 9.5 s vs 13.9 s for the best baseline controller on the same traffic | Python, React, Recharts |
 | [**Ambulance-Management-System**](https://github.com/KraVLonE/Ambulance-Management-System) · [live](https://ambulance-management.kravlone.xyz) | Real-time ambulance dispatch: sends the fastest unit by road (OSRM), queues calls by severity, public tracking link | JavaScript, PostgreSQL, Docker |
 | [**GeoGuide**](https://github.com/KraVLonE/GeoGuide) · [demo](https://www.youtube.com/watch?v=jPzFFzKt_RI) | Robot that spots disaster events from an overhead camera and drives to them in priority order. Top 30 of 4,000+ teams in e-Yantra (IIT Bombay) | Python, PyTorch, OpenCV, C++ |
-| [**ClipIn**](https://github.com/KraVLonE/ClipIn) · [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/clipin) | Browser extension that saves a LinkedIn profile to a Notion database in one click | JavaScript, Notion API |
 
 ## Stack
 
